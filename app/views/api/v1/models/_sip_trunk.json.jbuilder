@@ -1,0 +1,10 @@
+json.id resource.id
+json.name resource.name
+json.server_host resource.server_host
+json.port resource.port
+json.transport resource.transport
+json.username resource.username
+json.outbound_caller_id resource.outbound_caller_id
+json.is_default resource.is_default
+json.created_at resource.created_at
+json.updated_at resource.updated_at
